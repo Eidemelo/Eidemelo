@@ -19,6 +19,6 @@ Sou apaixonado por Negócios e TI.
 
 ### Contato
 
-- LinkedIn: [Eide Melo](https://www.linkedin.com/in/eidemelo/)
+- LinkedIn: [Eide Melo](https://www.linkedin.com/in/eide-melo-7a1934127/)
 
   
