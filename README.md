@@ -13,10 +13,10 @@ Sou apaixonado por Negócios e TI.
 
 ### Minhas habilidades
 
-- Python
-- SQL
-- Git e GitHub
-
+- **Linguagens**: Python
+- **Bancos de Dados**: SQL
+- **Ferramentas**: Git
+  
 ### Contato
 
 - LinkedIn: [Eide Melo](https://www.linkedin.com/in/eide-melo-7a1934127/)
